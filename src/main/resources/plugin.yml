@@ -1,0 +1,5 @@
+name: CommandBlockSpy
+version: '${project.version}'
+main: me.pew.commandblockspy.CommandBlockSpy
+api-version: 1.21
+authors: [ compewper ]
